@@ -1,0 +1,36 @@
+.titulo{
+    display: flex;
+    justify-content: center ;
+    font-family: "Inter" , sans-serif;
+    font-weight: 400px ;
+    font-size: 30px;
+    color: #107300;
+}
+
+.imagem{
+    display: block;
+    margin: auto;
+    height: 220px;
+}
+
+.MERCEARIA{
+    color: #DC7516;
+}
+
+.AÇOUGUE{
+    color: #F119F5;
+}
+
+.HIGIENEPESSOAL{
+    color: #E73434;
+}
+
+.FEIRA{
+    color: #BECD12;
+}
+
+.PRODUTOSDELIMPEZA{
+    color: #273DFF;
+}
+
+
